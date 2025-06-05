@@ -1,0 +1,13 @@
+//Irayya resume
+#include <stdio.h>
+
+int main() {
+    printf("Name: Irayya Hiremath \n");
+    printf("Email: ihiremath644@gmail.com\n");
+    printf("Education: BCA - Gogte Pu Commerce  College Tilakwadi Belgavi \n");
+    printf("Skills: C, Java, DBMS,Datastructure using c\n");
+    printf(" - Student Record System in C\n");
+    printf(" - Library Management in C\n");
+    printf("Hobbies: Coding, Reading\n");
+    return 0;
+}
